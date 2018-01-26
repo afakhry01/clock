@@ -38,3 +38,9 @@ body {
   font-size: 80px;
   color: white;
 }
+
+@media only screen and (max-width: 414px) {
+    .digital-clock {
+        font-size: 60px;
+    }
+}
